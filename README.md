@@ -1,2 +1,2 @@
-# In-Stock
-Sistema de gerenciamento de estoque para empresa Multishine
+# InStock
+Um Sistema de Gerenciamento de Estoque para uma Indústria Química
